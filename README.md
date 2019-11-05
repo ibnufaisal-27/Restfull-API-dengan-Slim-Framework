@@ -1,7 +1,6 @@
 # Slim 3 Skeleton
 
-This is a simple restFul API using Slim skeleton version 3 that includes Twig, Flash messages and Monolog.
-
+This is a simple restFul API using Slim skeleton version 3
 
 ## Features
 
